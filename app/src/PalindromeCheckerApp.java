@@ -44,9 +44,9 @@ public class PalindromeCheckerApp {
 
         // Compare original string with reversed string
         if (input.equals(reversed)) {
-            System.out.println("The string \"" + input + "\" is a palindrome.");
+            System.out.println(" The string \"" + input + "\" is a palindrome.");
         } else {
-            System.out.println("The string \"" + input + "\" is NOT a palindrome.");
+            System.out.println(" The string \"" + input + "\" is NOT a palindrome.");
         }
     }
 }
